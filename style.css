@@ -1,0 +1,48 @@
+* {
+  background-color: #0E2C40;
+}
+
+.titulo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.titulo1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2,
+h3,
+ul,
+a,
+p { 
+  font-family: 'Fuzzy Bubbles', cursive;
+  font-size: 25px;
+}
+h1 {
+  font-family: 'Fuzzy Bubbles', cursive;
+}
+img {
+  border-width: 5px;
+  border-color: #C1E1A7;
+  border-style: solid;
+  border-radius: 50px;
+}
+.armando {
+  display: flex;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+.img {
+  display: flex;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+
+
+
